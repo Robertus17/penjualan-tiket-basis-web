@@ -1,0 +1,204 @@
+html{
+	background-image: url("indonesia/Raja-Ampat.jpg");
+	background-size: 1900px 1600px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+img{
+	height: 100%;
+	width: 100%;
+}
+body{
+	height: 1000px;
+	width: 900px;
+	padding: 10px 172px;
+	
+}
+.awal{
+	height: 100px;
+	width: 997px;
+
+	border: 1px solid black;
+
+}
+.awal .logo{
+	height: 50px;
+	width: 50px;
+	padding: 25px 25px 0px 25px;
+	float: left;
+}
+.awal .tulisan{
+	float: left;
+	height: 50px;
+	width: 100px;
+	padding: 25px 0px;
+}
+.awal .tulisan p{
+	font-family: sans-serif;
+	color: skyblue;
+}
+.awal .menu .nav{
+	height: 50px;
+	width: 650px;
+	float: left;
+	padding-top: 10px;
+}
+
+a{
+	text-decoration: none;
+	font-family: sans-serif;
+}
+h1{
+	font-family: sans-serif;
+	font-size: 55px;
+	text-align: center;
+	color: springgreen;
+	padding-top: 25px;
+}
+li{
+	float: right;
+	height: 30px;
+	width: 100px;
+	border: 2px solid black;
+	list-style: none;
+	background-color: aqua;
+	text-align: center;
+	padding-top: 15px
+}
+li:hover a{
+	text-decoration: none;
+	color: white;
+}
+.tengah{
+	height: 1000px;
+	width: 997px;
+	border: 1px solid black;
+}
+.tengah .menu1{
+	height: 350px;
+	width: 996px;
+	border:1px solid black;
+	background-image: url("raja ampat.jpg");
+}
+.tengah .menu1 p{
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 40px;
+	color: white;
+}
+.tengah .menu2{
+	height: 300px;
+	width: 300px;
+	float: right;
+	border:1px solid black;
+	padding: 2px;
+	margin: 9px;
+}
+.tengah .pilih{
+	background-image: url("kapal/air asia.jpg");
+	height: 800px;
+	width: 900px;
+	background-size: 800px 950px;
+	background-repeat: no-repeat;
+	margin: 100px;background-size:  800px 950px;
+}
+.tengah .kapal{
+	background-image: url("kapal laut/citra.png");
+	height: 800px;
+	width: 900px;
+	background-size: 800px 950px;
+	background-repeat: no-repeat;
+	margin: 100px;
+	margin: 100px;background-size:  800px 950px;
+}
+.tengah .kereta{
+	background-image: url("keretaapi/bandung.jpg");
+	height: 800px;
+	width: 900px;
+	background-size: 800px 950px;
+	background-repeat: no-repeat;
+	margin: 100px;
+	margin: 100px;background-size:  800px 950px;
+}
+.tengah .rental{
+	background-image: url("rental/bali.jpg");
+	height: 800px;
+	width: 900px;
+	background-size: 800px 950px;
+	background-repeat: no-repeat;
+	margin: 100px;
+	margin: 100px;background-size:  800px 950px;
+}
+.tengah .kamar{
+	background-image: url("hotel/61 hotel.jpg");
+	height: 800px;
+	width: 900px;
+	background-size: 800px 950px;
+	background-repeat: no-repeat;
+	margin: 100px;
+	margin: 100px;background-size:  800px 950px;
+}
+.tengah .bus{
+	background-image: url("bus/als.jpg");
+	height: 800px;
+	width: 900px;
+	background-size: 800px 950px;
+	background-repeat: no-repeat;
+	margin: 100px;
+	margin: 100px;background-size:  800px 950px;
+}
+.tengah .pilih .isian{
+	height: 600px;
+	width: 500px;
+	padding: 170px;
+}
+.tengah .bus .isian{
+	height: 600px;
+	width: 500px;
+	padding: 170px;
+}
+.tengah .kamar .isian{
+	height: 600px;
+	width: 500px;
+	padding: 170px;
+}
+.tengah .rental .isian{
+	height: 600px;
+	width: 500px;
+	padding: 170px;
+}
+.tengah .kereta .isian{
+	height: 600px;
+	width: 500px;
+	padding: 170px;
+}
+.tengah .kapal .isian{
+	height: 600px;
+	width: 500px;
+	padding: 170px;
+}
+.akhir{
+	height: 150px;
+	width: 997px;
+	border: 1px solid black;
+}
+label{
+	color: black;
+}
+.akhir .akhir1{
+height: 120px;
+width: 800px;
+padding-top: 40px;
+}
+.akhir .akhir2{
+height: 30px;
+width: 997px;
+background-color: sienna;
+}
+.akhir .akhir2 p{
+	text-align: center;
+	padding-top: 4px;
+}
+.font{
+	text-align: center;
+}
